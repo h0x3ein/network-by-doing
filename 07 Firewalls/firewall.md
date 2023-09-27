@@ -3,7 +3,7 @@
 ![image](https://github.com/h0x3ein/network-by-doing/assets/75008854/0def4248-010a-4269-a052-80fbd6f899e1)
 
 ## FIREWALLS :: NETFILTER
-- netfilter is a framework provided by the Linux kernel
+netfilter is a framework provided by the Linux kernel
 - Packet filtering
 - Network address translation
 - Port translation
